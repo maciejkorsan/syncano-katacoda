@@ -27,6 +27,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "node8"
+    "imageid": "node"
   }
 }
