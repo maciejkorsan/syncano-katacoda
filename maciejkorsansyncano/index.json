@@ -1,6 +1,7 @@
 {
   "title": "Syncano",
   "description": "Syncano tutorial covering the CLI features",
+  "icon": "fa-node",
   "details": {
     "steps": [
       {
