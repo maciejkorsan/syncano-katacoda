@@ -4,9 +4,6 @@
   "description": "Syncano tutorial covering the CLI features",
   "icon": "fa-node",
   "details": {
-    "assets": { 
-      "host01": [ {"file": "*", "target": "~/"} ]
-    },
     "steps": [
       {
         "title": "Step 1: Project initiation",
@@ -30,7 +27,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "node"
