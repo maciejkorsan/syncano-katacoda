@@ -30,5 +30,6 @@
   },
   "backend": {
     "imageid": "node"
-  }
+  },
+  "assets": { "host01": [ {"file": "*", "target": "/home/scrapbook/tutorial/web"} ] }
 }
