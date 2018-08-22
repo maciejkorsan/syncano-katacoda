@@ -4,7 +4,10 @@
   "description": "Syncano tutorial covering the CLI features",
   "icon": "fa-node",
   "details": {
-    "assets": { "host01": [ {"file": "assets/*", "target": "~/web/"} ] },
+    "assets": { 
+      "host01": [ {"file": "assets/*", "target": "~/web/"} ], 
+      "client": [ {"file": "assets/*", "target": "~/web/"} ]
+    },
     "steps": [
       {
         "title": "Step 1: Project initiation",
