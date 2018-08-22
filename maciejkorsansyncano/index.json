@@ -5,8 +5,7 @@
   "icon": "fa-node",
   "details": {
     "assets": { 
-      "host01": [ {"file": "assets/*", "target": "~/"} ], 
-      "client": [ {"file": "assets/*", "target": "~/"} ]
+      "host01": [ {"file": "*", "target": "~/"} ]
     },
     "steps": [
       {
