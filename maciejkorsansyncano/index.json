@@ -28,6 +28,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "node"
+    "ImageId": "node"
   }
 }

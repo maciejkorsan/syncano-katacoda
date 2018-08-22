@@ -3,6 +3,8 @@ At first you need to prepare the environment for your project. You can click on 
 Initiate your NPM project by running 
  
 ⌨️ `npm init -y`{{execute}}
+
+👆👆👆 (PSSST... you don't have to type, those commands are clickable 😎)
  
  Install Syncano CLI by typing 
  
