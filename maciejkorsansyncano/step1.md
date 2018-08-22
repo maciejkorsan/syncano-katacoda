@@ -10,8 +10,10 @@ Initiate your NPM project by running
  
 ⌨️ `npm install -D @syncano/cli`{{execute}}
  
- Initiate your first Syncano Project & create your Syncano account
+ Initiate your first Syncano Project & create your Syncano account. The account you'll create can be used later - it's a free, fully-functional 90 days trial. You'll get details on your e-mail ✉️
  
 ⌨️ `npx s init`{{execute}} 
 
- The account you create can be used later - it's a free, fully-functional 90 days trial. You'll get details on your e-mail ✉️
+When asked for project template please choose `Hello World Project Template`
+
+
