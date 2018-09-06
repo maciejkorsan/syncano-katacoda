@@ -6,7 +6,7 @@ Next you need to set the instance name in the project. To get the instance name 
 
 ⌨️ `npx s info`{{execute}}
 
-Copy the `current instance` value, and put it into `syncano-example/web/app.js` in the second line. (File autosaves on change so don't worry 😎)
+Copy the `current instance` value, and put it into `syncano-example/web/app.js` in the second line by replacing `INSTANCE_NAME` with your new value. (File autosaves on change so don't worry 😎)
 
 Syncano has a hosting feature. Now we're going to get our sample website online. To add hosting execute:
 
