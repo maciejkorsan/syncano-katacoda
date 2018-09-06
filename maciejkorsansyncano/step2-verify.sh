@@ -1,0 +1,1 @@
+[ -d /home/scrapbook/tutorial/syncano/hello/.dist ] && echo "done"
