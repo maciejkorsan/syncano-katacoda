@@ -8,6 +8,6 @@ To get list of your socket's url just type:
 
 ⌨️ `npx s list`{{execute}}
 
-You should find there there url: https://**your-instance**.syncano.space/hello/hello/ this is your working socket address!
+You should find there there url: **your-instance**.syncano.space/hello/hello/ this is your working socket address!
 
 
