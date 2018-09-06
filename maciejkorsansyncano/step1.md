@@ -1,4 +1,4 @@
-At first you need to prepare the environment for your project. You can click on commands to copy them to the terminal.
+At first, you need to prepare the environment for your project. You can click on commands to copy them to the terminal.
 
 Initiate your NPM project by running 
  
@@ -14,7 +14,7 @@ Initiate your NPM project by running
  
 ⌨️ `npx s init`{{execute}} 
 
-When asked for project template please choose `Hello World Project Template`. 
+When asked for project template, please choose `Hello World Project Template`. 
 
 ```
 npx is a npm command used for running code from your local node_modules instead of installing things globally.
